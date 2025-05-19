@@ -78,12 +78,13 @@ app/
 └── res/layout/            // Archivos XML de UI
 
 ### Instalación y ejecución
-git clone https://github.com/tuusuario/CareTimesAndroid.git
+git clone https://github.com/ricardosv9/CareTimesAndroid.git
 
 ## 📦 Descarga del Proyecto
 
 Puedes descargar la aplicación Android completa desde la sección de releases:
 
 🔗 [Descargar CareTimes Android - Release v1.0](https://github.com/ricardosv9/CareTimesAndroid/releases/tag/v1.0)
+
 
 
