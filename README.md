@@ -80,3 +80,10 @@ app/
 ### Instalación y ejecución
 git clone https://github.com/tuusuario/CareTimesAndroid.git
 
+## 📦 Descarga del Proyecto
+
+Puedes descargar la aplicación Android completa desde la sección de releases:
+
+🔗 [Descargar CareTimes Android - Release v1.0](https://github.com/TU_USUARIO/CareTimesAndroid/releases/tag/v1.0)
+
+
